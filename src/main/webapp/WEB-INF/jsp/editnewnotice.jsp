@@ -86,7 +86,7 @@
         <div class="article col-md-12">
             <div class="input-group input-group-lg edit-title">
                 <span class="input-group-addon" id="sizing-addon-title" >标题：</span>
-                <input type="text" class="form-control" placeholder="请输入文章标题" aria-describedby="sizing-addon1" name="noticetitle">
+                <input type="text"  class="form-control" placeholder="请输入文章标题" aria-describedby="sizing-addon1" name="noticetitle">
             </div>
             <div class="input-group input-group-lg author">
                 <span class="input-group-addon" id="sizing-addon-author" >作者：</span>
